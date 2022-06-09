@@ -544,3 +544,27 @@
   - 'http://wxlasertank.sourceforge.net/screenshots/main.png'
   - 'http://wxlasertank.sourceforge.net/screenshots/game.png'
   - 'http://wxlasertank.sourceforge.net/screenshots/game_petes.png'
+
+name: Watashi no Mono
+originals:
+- Yandere Simulator
+type: clone
+repo: 'https://gitlab.com/arvl/watashi-no-mono/-/tree/master/'
+development: halted
+status: playable
+content: open
+langs:
+- 'C#'
+frameworks:
+- Unity
+licenses:
+- CC0
+info: >-
+  The fan clone of Yandere Simulator, which was in development from 2017 to
+  2020, was currently stopped by the development of the game, in 2020 the source
+  code of the game was opened.
+updated: '2022-06-09'
+images:
+- 'https://gamejolt.com/games/Watashi_no_Mono/569405#screenshot-999707'
+video:
+  youtube: v-ZxrId_k3M
